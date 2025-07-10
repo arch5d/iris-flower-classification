@@ -46,10 +46,15 @@ Below are typical visual outputs generated in the notebook:
 
 ---
 
-### 2. Confusion Matrix Heatmap
+### 2. Accuracy & Confusion Matrix Heatmap
 *(Highlights prediction performance across classes)*
 
+
 ![image](https://github.com/user-attachments/assets/b58262e6-fed1-41ac-92d3-f60bbaf26797)
+
+
+![image](https://github.com/user-attachments/assets/f6d64db7-820f-4f19-94aa-7aa036c15f00)
+
 
 
 ---
